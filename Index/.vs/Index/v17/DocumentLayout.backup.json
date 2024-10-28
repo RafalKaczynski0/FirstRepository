@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\repos\\Quiz\\Index\\",
+  "WorkspaceRootPath": "D:\\repositories\\Quiz\\FirstRepository\\Index\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DF32F3F-C5DB-4215-ACBD-1A18F29783E1}|Index.csproj|d:\\repos\\quiz\\index\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DF32F3F-C5DB-4215-ACBD-1A18F29783E1}|Index.csproj|d:\\repositories\\quiz\\firstrepository\\index\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF32F3F-C5DB-4215-ACBD-1A18F29783E1}|Index.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF32F3F-C5DB-4215-ACBD-1A18F29783E1}|Index.csproj|d:\\repositories\\quiz\\firstrepository\\index\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DF32F3F-C5DB-4215-ACBD-1A18F29783E1}|Index.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF32F3F-C5DB-4215-ACBD-1A18F29783E1}|Index.csproj|d:\\repositories\\quiz\\firstrepository\\index\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF32F3F-C5DB-4215-ACBD-1A18F29783E1}|Index.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +22,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\repositories\\Quiz\\FirstRepository\\Index\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "D:\\repositories\\Quiz\\FirstRepository\\Index\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:46:20.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\repositories\\Quiz\\FirstRepository\\Index\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "D:\\repositories\\Quiz\\FirstRepository\\Index\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:46:19.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\repos\\Quiz\\Index\\Program.cs",
+              "DocumentMoniker": "D:\\repositories\\Quiz\\FirstRepository\\Index\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\repos\\Quiz\\Index\\Program.cs",
+              "ToolTip": "D:\\repositories\\Quiz\\FirstRepository\\Index\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T15:18:52.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T15:18:52.841Z"
             }
           ]
         }
