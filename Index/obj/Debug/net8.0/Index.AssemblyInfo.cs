@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Index")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6342429d129c2a24a05bf3097e46a97b1abaa352")]
 [assembly: System.Reflection.AssemblyProductAttribute("Index")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Index")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

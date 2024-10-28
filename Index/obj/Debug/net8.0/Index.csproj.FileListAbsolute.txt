@@ -12,3 +12,4 @@ D:\repos\Quiz\Index\obj\Debug\net8.0\refint\Index.dll
 D:\repos\Quiz\Index\obj\Debug\net8.0\Index.pdb
 D:\repos\Quiz\Index\obj\Debug\net8.0\Index.genruntimeconfig.cache
 D:\repos\Quiz\Index\obj\Debug\net8.0\ref\Index.dll
+D:\repos\Quiz\Index\obj\Debug\net8.0\Index.sourcelink.json

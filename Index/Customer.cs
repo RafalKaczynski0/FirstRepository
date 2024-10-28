@@ -8,5 +8,6 @@ namespace Index
 {
     internal class Customer
     {
+       
     }
 }
