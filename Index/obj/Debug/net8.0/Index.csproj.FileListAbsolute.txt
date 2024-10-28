@@ -1,0 +1,14 @@
+D:\repos\Quiz\Index\bin\Debug\net8.0\Index.exe
+D:\repos\Quiz\Index\bin\Debug\net8.0\Index.deps.json
+D:\repos\Quiz\Index\bin\Debug\net8.0\Index.runtimeconfig.json
+D:\repos\Quiz\Index\bin\Debug\net8.0\Index.dll
+D:\repos\Quiz\Index\bin\Debug\net8.0\Index.pdb
+D:\repos\Quiz\Index\obj\Debug\net8.0\Index.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Quiz\Index\obj\Debug\net8.0\Index.AssemblyInfoInputs.cache
+D:\repos\Quiz\Index\obj\Debug\net8.0\Index.AssemblyInfo.cs
+D:\repos\Quiz\Index\obj\Debug\net8.0\Index.csproj.CoreCompileInputs.cache
+D:\repos\Quiz\Index\obj\Debug\net8.0\Index.dll
+D:\repos\Quiz\Index\obj\Debug\net8.0\refint\Index.dll
+D:\repos\Quiz\Index\obj\Debug\net8.0\Index.pdb
+D:\repos\Quiz\Index\obj\Debug\net8.0\Index.genruntimeconfig.cache
+D:\repos\Quiz\Index\obj\Debug\net8.0\ref\Index.dll
