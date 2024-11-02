@@ -8,5 +8,11 @@ namespace Index
 {
     internal class Car
     {
+        private string branch;
+        private string type;
+        private string power;
+        private double prize;
+
+
     }
 }

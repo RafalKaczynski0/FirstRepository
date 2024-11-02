@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\repositories\\Quiz\\FirstRepository\\Index\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DF32F3F-C5DB-4215-ACBD-1A18F29783E1}|Index.csproj|d:\\repositories\\quiz\\firstrepository\\index\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF32F3F-C5DB-4215-ACBD-1A18F29783E1}|Index.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6DF32F3F-C5DB-4215-ACBD-1A18F29783E1}|Index.csproj|d:\\repositories\\quiz\\firstrepository\\index\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DF32F3F-C5DB-4215-ACBD-1A18F29783E1}|Index.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DF32F3F-C5DB-4215-ACBD-1A18F29783E1}|Index.csproj|d:\\repositories\\quiz\\firstrepository\\index\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DF32F3F-C5DB-4215-ACBD-1A18F29783E1}|Index.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF32F3F-C5DB-4215-ACBD-1A18F29783E1}|Index.csproj|d:\\repositories\\quiz\\firstrepository\\index\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF32F3F-C5DB-4215-ACBD-1A18F29783E1}|Index.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,48 +22,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\repositories\\Quiz\\FirstRepository\\Index\\Customer.cs",
               "RelativeDocumentMoniker": "Customer.cs",
               "ToolTip": "D:\\repositories\\Quiz\\FirstRepository\\Index\\Customer.cs",
               "RelativeToolTip": "Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T15:46:20.217Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Car.cs",
               "DocumentMoniker": "D:\\repositories\\Quiz\\FirstRepository\\Index\\Car.cs",
               "RelativeDocumentMoniker": "Car.cs",
               "ToolTip": "D:\\repositories\\Quiz\\FirstRepository\\Index\\Car.cs",
               "RelativeToolTip": "Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T15:46:19.321Z"
+              "WhenOpened": "2024-10-28T15:46:19.321Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\repositories\\Quiz\\FirstRepository\\Index\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\repositories\\Quiz\\FirstRepository\\Index\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T15:18:52.841Z"
+              "WhenOpened": "2024-10-28T15:18:52.841Z",
+              "EditorCaption": ""
             }
           ]
         }

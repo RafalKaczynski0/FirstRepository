@@ -22,11 +22,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
@@ -36,10 +44,9 @@
               "RelativeDocumentMoniker": "Customer.cs",
               "ToolTip": "D:\\repositories\\Quiz\\FirstRepository\\Index\\Customer.cs",
               "RelativeToolTip": "Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T15:46:20.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T15:46:20.217Z"
             },
             {
               "$type": "Document",
@@ -49,10 +56,9 @@
               "RelativeDocumentMoniker": "Car.cs",
               "ToolTip": "D:\\repositories\\Quiz\\FirstRepository\\Index\\Car.cs",
               "RelativeToolTip": "Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T15:46:19.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T15:46:19.321Z"
             },
             {
               "$type": "Document",
@@ -62,7 +68,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\repositories\\Quiz\\FirstRepository\\Index\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T15:18:52.841Z",
               "EditorCaption": ""

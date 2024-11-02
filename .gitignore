@@ -1,6 +1,17 @@
 ﻿################################################################################
+<<<<<<< HEAD
 # Ten plik .gitignore został utworzony automatycznie przez Microsoft(R) Visual Studio.
 ################################################################################
 
 /Index/.vs/Index/FileContentIndex/7383e890-b47a-4fc8-94f8-47aa3eac964a.vsidx
 /Index/.vs/Index/FileContentIndex/e1acea0a-2df4-4359-a6b4-506a7d0263dd.vsidx
+=======
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Index/.vs/Index/FileContentIndex/1a82ee7d-31a2-4015-86e0-e114867cfd61.vsidx
+/Index/.vs/Index/FileContentIndex/5cc68b90-6a9c-49ef-8f27-3f9ff1cde48d.vsidx
+/Index/.vs/Index/FileContentIndex/b2fd0baa-ab95-4fe4-ad6e-6016a14fd2f4.vsidx
+/Index/.vs/Index/FileContentIndex/cce20de1-e3bf-4d93-bd3b-96e8f3c3c3e6.vsidx
+>>>>>>> c5e2612e5665103532426ba1db11fe1627564472
+/Index/.vs/Index/FileContentIndex/1aaab7da-0dcf-4326-a077-14f3af9d1469.vsidx

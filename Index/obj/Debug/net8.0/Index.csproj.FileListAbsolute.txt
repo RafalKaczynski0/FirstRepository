@@ -12,6 +12,7 @@ D:\repos\Quiz\Index\obj\Debug\net8.0\refint\Index.dll
 D:\repos\Quiz\Index\obj\Debug\net8.0\Index.pdb
 D:\repos\Quiz\Index\obj\Debug\net8.0\Index.genruntimeconfig.cache
 D:\repos\Quiz\Index\obj\Debug\net8.0\ref\Index.dll
+<<<<<<< HEAD
 D:\repositories\Quiz\FirstRepository\Index\bin\Debug\net8.0\Index.exe
 D:\repositories\Quiz\FirstRepository\Index\bin\Debug\net8.0\Index.deps.json
 D:\repositories\Quiz\FirstRepository\Index\bin\Debug\net8.0\Index.runtimeconfig.json
@@ -27,3 +28,6 @@ D:\repositories\Quiz\FirstRepository\Index\obj\Debug\net8.0\refint\Index.dll
 D:\repositories\Quiz\FirstRepository\Index\obj\Debug\net8.0\Index.pdb
 D:\repositories\Quiz\FirstRepository\Index\obj\Debug\net8.0\Index.genruntimeconfig.cache
 D:\repositories\Quiz\FirstRepository\Index\obj\Debug\net8.0\ref\Index.dll
+=======
+D:\repos\Quiz\Index\obj\Debug\net8.0\Index.sourcelink.json
+>>>>>>> c5e2612e5665103532426ba1db11fe1627564472
