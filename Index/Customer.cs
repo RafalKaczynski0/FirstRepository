@@ -6,8 +6,16 @@ using System.Threading.Tasks;
 
 namespace Index
 {
-    internal class Customer
+    public class Customer
     {
-       
+        public string Name { get; set; }
+        public string LicenseNumber { get; set; }
+
+        public Customer(string name, string licenseNumber)
+        {
+            Name = name;
+            LicenseNumber = licenseNumber;
+        }
     }
+
 }

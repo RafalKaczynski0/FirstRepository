@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{6DF32F3F-C5DB-4215-ACBD-1A18F29783E1}|Index.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6DF32F3F-C5DB-4215-ACBD-1A18F29783E1}|Index.csproj|d:\\repos\\quiz\\index\\rental_office.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF32F3F-C5DB-4215-ACBD-1A18F29783E1}|Index.csproj|solutionrelative:rental_office.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6DF32F3F-C5DB-4215-ACBD-1A18F29783E1}|Index.csproj|d:\\repos\\quiz\\index\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DF32F3F-C5DB-4215-ACBD-1A18F29783E1}|Index.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,12 +21,12 @@
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,26 +39,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\repos\\Quiz\\Index\\Customer.cs",
-              "RelativeDocumentMoniker": "Customer.cs",
-              "ToolTip": "D:\\repos\\Quiz\\Index\\Customer.cs",
-              "RelativeToolTip": "Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Title": "Rental_office.cs",
+              "DocumentMoniker": "D:\\repos\\Quiz\\Index\\Rental_office.cs",
+              "RelativeDocumentMoniker": "Rental_office.cs",
+              "ToolTip": "D:\\repos\\Quiz\\Index\\Rental_office.cs",
+              "RelativeToolTip": "Rental_office.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T15:36:52.048Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Car.cs",
-              "DocumentMoniker": "D:\\repos\\Quiz\\Index\\Car.cs",
-              "RelativeDocumentMoniker": "Car.cs",
-              "ToolTip": "D:\\repos\\Quiz\\Index\\Car.cs",
-              "RelativeToolTip": "Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T15:36:30.177Z"
+              "WhenOpened": "2024-11-04T14:28:51.677Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -62,11 +55,37 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\repos\\Quiz\\Index\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\repos\\Quiz\\Index\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "ToolTip": "D:\\repos\\Quiz\\Index\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T15:18:52.841Z",
+              "WhenOpened": "2024-11-02T13:50:02.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\repos\\Quiz\\Index\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "D:\\repos\\Quiz\\Index\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:36:30.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\repos\\Quiz\\Index\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "D:\\repos\\Quiz\\Index\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:36:52.048Z",
               "EditorCaption": ""
             }
           ]
